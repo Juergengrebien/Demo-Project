@@ -195,6 +195,7 @@ mit flüssigem Kern mit Vanilleeis,
 Schlagobers und lauwarmen Beerenragout<br>
 Hausgemachter Indianer....................... 4,90<br>
 mit Schlagobers und Schokoladencouvertüre<br><br><br><br><br><br><br><br><br>
+
 Menü:<br>
 Suppe nach Wahl<br>
 Hausgemachte Pizza<br>
