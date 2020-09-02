@@ -1,7 +1,5 @@
 # Demo-Project
 
-<!DOCTYPE html>
-
 
 
 <html lang="de" dir="ltr">
