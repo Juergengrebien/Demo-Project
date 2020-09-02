@@ -225,9 +225,5 @@ Jürgen's Restaurant in Liebenfels würde von Jürgen Grebien in Jahre 2020 gegr
 Unser Unternehmen hat sich weltweit einer der besten Restaurant Titl der Welt gemacht.<br><br><br><br><br><br><br><br><br><br><br><br><br><br></p>
   </div><div id="footer">
           Copyright 2020 | Jürgen Grebien
-    </div>
 
-
-  </body>
-</html>
 
