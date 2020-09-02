@@ -50,9 +50,6 @@ nav a:hover {
 
 }
 
-#pizza img {
-                margin-top:30px
-}
 
 
 #footer {
@@ -203,10 +200,7 @@ Suppe nach Wahl<br>
 Hausgemachte Pizza<br>
 Dessert Überraschung........................ 15,00<br>
 
-  <div id="pizza">
-  <img src="pizza.jpg" alt="Hausgemachte Pizza"
-  </section>
-</div>
+>
 
     <section id="open"></section><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <h2><b>Öffnungszeiten</b></h2>
