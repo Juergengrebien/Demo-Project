@@ -221,7 +221,7 @@ Sonntag           8-23 Uhr<br><br><br><br><br><br><br><br><br><br><br><br><br><b
 <h2><b>Über uns</b></h2>
 Jürgen's Restaurant in Liebenfels würde von Jürgen Grebien in Jahre 2020 gegründet.<br>
 Unser Unternehmen hat sich weltweit einer der besten Restaurant Titl der Welt gemacht.<br><br><br><br><br><br><br><br><br><br><br><br><br><br></p>
-  </div><div id="footer">
+  <div id="footer">
           Copyright 2020 | Jürgen Grebien
 
 
