@@ -204,14 +204,14 @@ Dessert Überraschung........................ 15,00<br>
 
     <section id="open"></section><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <h2><b>Öffnungszeiten</b></h2>
-<p>Montag            Ruhetag<br>
+<p>Montag         Ruhetag<br>
 Dienstag          Ruhetag<br>
 Mittwoch          9-23 Uhr<br>
 Donnerstag        9-23 Uhr<br>
 Freitag           9-24 Uhr<br>
 Samstag           8-24 Uhr<br>
 Sonntag           8-23 Uhr<br><br><br><br><br><br><br><br><br><br><br><br><br><br></p>
-    <section id="about-us"></section>
+    section id="about-us"></section>
 <h2><b>Über uns</b></h2>
 Jürgen's Restaurant in Liebenfels würde von Jürgen Grebien in Jahre 2020 gegründet.<br>
 Unser Unternehmen hat sich weltweit einer der besten Restaurant Titl der Welt gemacht.<br><br><br><br><br><br><br><br><br><br><br><br><br><br></p>
